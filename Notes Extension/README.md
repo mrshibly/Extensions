@@ -17,7 +17,7 @@ Quick Notes is a simple and handy Chrome extension that lets you jot down quick 
 ## 📁 File Structure
 
 ```
-quick-notes/
+Notes Extension/
 │
 ├── manifest.json       # The manifest file that provides metadata about the extension.
 ├── popup.html          # The HTML file for the extension's popup interface.
